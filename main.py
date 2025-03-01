@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import random
 
-bot = telebot.TeleBot('YOUR TOKEN')
+bot = telebot.TeleBot('СЮДА ТОКЕН БОТА')
 
 todo_list = []  
 
